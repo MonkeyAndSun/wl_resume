@@ -3,6 +3,12 @@ svn:wc:ra_dav:version-url
 V 35
 /svn/all199239/!svn/ver/7/resume/js
 END
+buju.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/all199239/!svn/ver/9/resume/js/buju.js
+END
 swiper.animate.min.js
 K 25
 svn:wc:ra_dav:version-url
